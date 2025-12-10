@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: black;
+    color: white;
+    text-align: center;
+}
+
+.hero {
+    padding: 80px 20px;
+    background: linear-gradient(to right, cyan, lime);
+    color: black;
+}
+
+.hero h1 {
+    font-size: 36px;
+}
+
+section {
+    padding: 50px 20px;
+}
+
+h2 {
+    color: cyan;
+}
+
+img {
+    width: 80%;
+    max-width: 700px;
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px cyan;
+}
+
+.tech {
+    font-size: 18px;
+    color: yellow;
+}
+
+.btn {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 12px 25px;
+    background: cyan;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 8px;
+}
+
+footer {
+    padding: 20px;
+    background: #111;
+    margin-top: 40px;
+}
